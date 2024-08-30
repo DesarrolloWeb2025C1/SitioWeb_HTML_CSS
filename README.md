@@ -4,8 +4,9 @@ Este es un proyecto básico para mostrar a los estudiantes los fundamentos de HT
 
 ## Estructura del Proyecto
 
-- `index.html`: El archivo principal que contiene la estructura HTML del sitio web.
-- `styles.css`: El archivo CSS que define los estilos aplicados al sitio web.
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) HTML: El archivo principal que contiene la estructura HTML del sitio web.
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) CSS: El archivo CSS que define los estilos aplicados al sitio web.
 - `images/`: Carpeta que contiene las imágenes del logo de la universidad, la imagen del logo principal de la materia, y una foto de ejemplo.
 
 ## Cómo Usar
