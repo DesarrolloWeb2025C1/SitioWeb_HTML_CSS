@@ -5,9 +5,9 @@ Este es un proyecto básico para mostrar a los estudiantes los fundamentos de HT
 ## Estructura del Proyecto
 
 
-INDEX.HTML: El archivo principal que contiene la estructura HTML del sitio web.
-STYLES.CSS: El archivo CSS que define los estilos aplicados al sitio web.
-images/`: Carpeta que contiene las imágenes del logo de la universidad, la imagen del logo principal de la materia, y una foto de ejemplo.
+- INDEX.HTML: El archivo principal que contiene la estructura HTML del sitio web.
+- STYLES.CSS: El archivo CSS que define los estilos aplicados al sitio web.
+- images/`: Carpeta que contiene las imágenes del logo de la universidad, la imagen del logo principal de la materia, y una foto de ejemplo.
 
 ## Cómo Usar
 
